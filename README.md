@@ -1,12 +1,9 @@
-### Hi there, my name is Simon 👋
----
+## Hi there, I'm Simon 👋
+I am a junior studying computer science at Stevens Institute of Technology.
 ### Pronouns: He/Him
----
-### My Top Languages
----
+## My Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgao1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### My Stats
----
+## My Stats
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgao1202)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sgao1202/sgao1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
