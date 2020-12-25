@@ -1,5 +1,7 @@
-### Hi there 👋
-### 😄  Pronouns: He/Him
+### Hi there, my name is Simon 👋
+---
+### Pronouns: He/Him
+---
 ### My Top Languages
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgao1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
