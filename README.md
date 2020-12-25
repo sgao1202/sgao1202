@@ -2,7 +2,7 @@
 I am a junior studying computer science at Stevens Institute of Technology.
 ### Pronouns: He/Him
 ## My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgao1202&layout=compact&exclude_repo=cs555-gedcom)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgao1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## My Stats
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgao1202)](https://github.com/anuraghazra/github-readme-stats)
 <!--
