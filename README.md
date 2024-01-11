@@ -1,5 +1,5 @@
 ## Hi there, I'm Simon 👋
-I am a senior studying computer science at Stevens Institute of Technology. I've recently garnered a strong interest in web development after taking a web development course this past Fall semester and would love for an opportunity to apply at an internship.
+I work on containers :D
 ### Pronouns: He/Him
 ## My Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgao1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
